@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* tailwind.css or your global CSS file */
+
+.dark .bg-gray-800 {
+    background-color: #1f2937; /* Dark mode background color */
+  }
+  
+  .dark .text-white {
+    color: #ffffff; /* Dark mode text color */
+  }
+  
+  /* Add more Tailwind styles for dark mode as needed */
+  
